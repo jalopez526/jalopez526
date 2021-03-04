@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Truelogic](https://www.truelogicsoftware.com/) as a Senior Full-Stack Engineer.
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 🌱 I’m currently learning about JavaScript, investments, cryptocurrency and trading.
-- 📫 You can reach me out in: <a href="http://jeremylopez.me/">www.jeremylope.me</a> or jeremyandres.lopez@gmail.com
+- 📫 You can reach me out in: <a href="http://jeremylopez.me/">here</a> or jeremyandres.lopez@gmail.com
 - 💜 Interests: **Gaming, Cryptocurrency, Trading**
 - 😄 Passionate **Computers, JavaScript, Code Quality and Best Practices, Helping others to reach their gols. **
 - ⚡ Fun fact: ...
