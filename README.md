@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning about JavaScript, investments, cryptocurrency and trading.
 - 📫 You can reach me out in: <a href="http://jeremylopez.me/">here</a> or jeremyandres.lopez@gmail.com
 - 💜 Interests: **Gaming, Cryptocurrency, Trading**
-- 😄 Passionate: **Computers, JavaScript, Code Quality, Best Practices and Helping others to reach their goals.**
+- 😄 Passionate: **Computers, JavaScript, Code Quality, Best Practices and helping others to reach their goals.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalopez526&theme=buefy&layout=compact)
